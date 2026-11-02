@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">KuroStream</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_watchlist">My List</string>
+    <string name="nav_studio">Stream Hub</string>
+
+    <string name="hero_badge_featured">FEATURED PREMIERE</string>
+    <string name="action_watch_now">Watch Now</string>
+    <string name="action_resume_episode">Resume</string>
+    <string name="action_add_watchlist">My List</string>
+    <string name="action_in_watchlist">Saved</string>
+    <string name="action_details">Details</string>
+
+    <string name="category_all">All</string>
+    <string name="category_anime">Anime</string>
+    <string name="category_web_series">Web Series</string>
+    <string name="category_movies">Movies</string>
+
+    <string name="section_continue_watching">Continue Watching</string>
+    <string name="section_cinema_premieres">Open Cinema &amp; Sci-Fi</string>
+    <string name="section_top_anime">Trending Anime</string>
+    <string name="section_popular_series">Popular Web Series</string>
+    <string name="section_custom_streams">Your Custom Streams</string>
+
+    <string name="explore_title">Discover</string>
+    <string name="explore_subtitle">Search across anime, web series, and cinema streams</string>
+    <string name="search_placeholder">Search anime, web series, movies…</string>
+    <string name="empty_search_title">No matches found</string>
+    <string name="empty_search_subtitle">Try searching another title, genre, or switch category filters.</string>
+
+    <string name="watchlist_title">My Watchlist &amp; History</string>
+    <string name="tab_saved">Saved List</string>
+    <string name="tab_history">Watch History</string>
+    <string name="empty_watchlist_title">Your Theater Queue is Empty</string>
+    <string name="empty_watchlist_subtitle">Save movies, anime, or web series to build your personal screening lineup.</string>
+    <string name="empty_history_title">No Playback History Yet</string>
+    <string name="empty_history_subtitle">Start watching any open-cinema film or episode and pick up right where you left off.</string>
+
+    <string name="studio_title">Custom Stream Hub</string>
+    <string name="studio_subtitle">Play any direct MP4, HLS (.m3u8), or WebM stream URL or save your own series &amp; movie links locally.</string>
+    <string name="field_stream_title">Title</string>
+    <string name="field_stream_url">Video Stream URL (.mp4 or .m3u8)</string>
+    <string name="field_poster_url">Poster Image URL (optional)</string>
+    <string name="field_synopsis">Synopsis / Notes (optional)</string>
+    <string name="action_play_direct">Play Stream Immediately</string>
+    <string name="action_save_stream">Save to Library</string>
+    <string name="sample_hls_chip">Load Sample 4K HLS Stream</string>
+    <string name="sample_mp4_chip">Load Sample Sci-Fi MP4</string>
+
+    <string name="detail_episodes">Episodes</string>
+    <string name="detail_synopsis">Synopsis</string>
+    <string name="detail_metadata_heading">Title Details</string>
+    <string name="detail_label_rating">Rating</string>
+    <string name="detail_label_release">Release</string>
+    <string name="detail_label_studio">Studio</string>
+    <string name="detail_label_format">Format</string>
+    <string name="detail_studio_fallback">Independent Studio</string>
+    <string name="detail_feature_film">Feature Film</string>
+    <string name="detail_read_more">Read more</string>
+    <string name="detail_show_less">Show less</string>
+    <string name="detail_stream_ready">Direct Stream Ready</string>
+    <string name="detail_trailer_stream">Preview / Official Promo</string>
+    <string name="detail_custom_stream_bound">Custom Stream Linked</string>
+    <string name="detail_stream_url_short">Stream URL</string>
+    <string name="detail_bind_stream_prompt">Bind a direct MP4 or HLS (.m3u8) stream URL to %1$s:</string>
+    <string name="detail_bind_stream_hint">https://… (.m3u8 / .mp4)</string>
+    <string name="detail_save_and_bind">Save &amp; Bind</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_attach_custom_stream">Attach Custom Stream URL</string>
+    <string name="cd_detail_backdrop">Backdrop artwork for %1$s</string>
+    <string name="cd_detail_poster">Poster artwork for %1$s</string>
+
+    <string name="player_speed">Speed</string>
+    <string name="player_fit_mode">Resize</string>
+    <string name="player_next_episode">Next Ep</string>
+    <string name="player_error_prefix">Playback Error:</string>
+    <string name="player_retry">Retry Stream</string>
+    <string name="player_replay">Replay</string>
+    <string name="player_skip_back_10s">-10s</string>
+    <string name="player_skip_forward_10s">+10s</string>
+    <string name="player_live_preview">Inline Stream Preview</string>
+    <string name="player_expand_cinema">Cinema Mode</string>
+
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_play_pause">Play or pause video</string>
+    <string name="cd_play">Play video</string>
+    <string name="cd_pause">Pause video</string>
+    <string name="cd_replay">Replay video</string>
+    <string name="cd_rewind_10">Skip backward 10 seconds</string>
+    <string name="cd_forward_10">Skip forward 10 seconds</string>
+    <string name="cd_mute_toggle">Mute or unmute audio</string>
+    <string name="cd_lock_controls">Lock or unlock player controls</string>
+    <string name="cd_fullscreen">Toggle fullscreen</string>
+    <string name="cd_watchlist_toggle">Toggle watchlist</string>
+    <string name="cd_favorite_toggle">Pin or unpin favorite</string>
+    <string name="cd_poster_image">Media poster artwork</string>
+    <string name="cd_hero_banner">Featured cinema banner</string>
+    <string name="cd_clear_search">Clear search query</string>
+    <string name="cd_delete_item">Remove item</string>
+</resources>

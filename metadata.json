@@ -1,0 +1,6 @@
+{
+  "name": "KuroStream",
+  "description": "A streaming and watchlist companion for watching open-cinema movies, anime, and web series with synchronized progress and watchlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
